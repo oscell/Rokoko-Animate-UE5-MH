@@ -1,4 +1,4 @@
-# Rokoko-Embodiment
+# Rokoko-Animate-UE5-MH
 
 This repository contains intructions on importing rokoko animations, an UE5 project that demonstrates this as well as additional animations. The animation format that provides the best outcome so far is the `human_Ik` denoted by `_hik`.
 
